@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 114.132.150.220
+    port: 5672
+    username: Zhao_wanru
+    password: wanru
+    virtual-host: Zhao_wanru
